@@ -1,0 +1,92 @@
+Keystone Privacy Policy
+
+Effective Date: 04/09/2026
+
+1. Overview
+
+Keystone (“we”, “our”, or “us”) provides a Jira-integrated application designed to help teams understand sprint capacity, workload, and delivery risk.
+
+This Privacy Policy explains what data we access, how we use it, and how it is handled.
+
+2. Data We Access
+
+Keystone operates within Atlassian’s Forge platform and accesses data through Jira APIs.
+
+We may access the following types of data:
+
+Jira issues (including summaries, descriptions, fields, and status)
+Sprint and board data
+User account identifiers (such as accountId)
+Project and team configuration data
+3. How We Use Data
+
+We use this data solely to provide the functionality of the Keystone application, including:
+
+Calculating sprint health metrics
+Evaluating capacity vs workload
+Identifying at-risk work
+Displaying meeting and timeline impacts
+Supporting configuration settings defined by administrators
+
+We do not use this data for advertising, profiling, or marketing purposes.
+
+4. Data Storage
+
+Keystone is built on Atlassian Forge.
+
+Data is stored using Atlassian-hosted infrastructure (Forge storage)
+We do not store customer data on external servers
+We do not transfer data outside Atlassian infrastructure
+5. Data Sharing
+
+We do not sell, rent, or share customer data with third parties.
+
+Data is only processed within the Atlassian platform to deliver app functionality.
+
+6. Data Retention
+
+Keystone retains data only as long as necessary to support app functionality.
+
+Data stored via Forge storage is retained while the app is installed
+When the app is uninstalled, associated stored data is removed in accordance with Atlassian’s platform behavior
+7. Security
+
+Keystone relies on Atlassian Forge security and infrastructure.
+
+Authentication is handled by Atlassian
+No user credentials are stored by Keystone
+All API access is authorized through Atlassian
+8. Third-Party Services
+
+Keystone does not require:
+
+External accounts
+Third-party integrations
+External data processors
+9. Data Roles and Responsibilities
+
+Keystone acts as a data processor on behalf of the customer.
+
+The customer (the Atlassian site administrator or organization) is the data controller and is responsible for managing user data and permissions within Jira.
+
+10. User Rights
+
+As Keystone processes data within Jira, data access and control are governed by:
+
+Atlassian account permissions
+Jira project permissions
+Organization-level controls
+
+Users should contact their Jira administrator for requests related to access, correction, or deletion of data.
+
+11. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+Updates will be reflected with a revised effective date.
+
+12. Contact
+
+If you have questions about this Privacy Policy, contact:
+
+Email: support@bedrocksolutionsllc.com
