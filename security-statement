@@ -1,0 +1,86 @@
+Keystone Security Statement
+
+Effective Date: 04/09/2026
+
+1. Overview
+
+Keystone is a Jira-integrated application built on Atlassian Forge. This document describes how Keystone handles data security, storage, and access.
+
+2. Hosting and Infrastructure
+
+Keystone is built and hosted entirely on Atlassian Forge.
+
+All application logic runs within Atlassian-managed infrastructure
+Data is stored using Atlassian-hosted storage (Forge storage)
+Keystone does not operate or rely on external servers
+3. Data Storage and Processing
+
+Keystone stores data only as required to provide application functionality.
+
+This may include:
+
+Atlassian account identifiers (such as accountId)
+User configuration and preferences
+Team and administrative configuration data
+Application-generated content (such as meeting notes, summaries, or feed items)
+
+All data is stored within Atlassian infrastructure and is not transferred to external systems.
+
+4. Data Access and Authentication
+Authentication is managed entirely by Atlassian
+Keystone uses Atlassian’s authorization model (asUser() and asApp() APIs)
+Keystone does not store or manage user credentials
+
+Access to data is restricted based on:
+
+Jira permissions
+Atlassian account access controls
+5. Data Transmission
+
+All data access occurs through secure Atlassian APIs.
+
+Data is transmitted over HTTPS
+No direct external API calls are made to third-party systems
+6. Third-Party Services
+
+Keystone does not use:
+
+External databases
+Third-party analytics tools
+External data processors
+External authentication providers
+7. Data Retention and Deletion
+Data stored by Keystone is retained only as long as necessary for functionality
+When the app is uninstalled, stored data is removed in accordance with Atlassian Forge platform behavior
+8. Logging and Monitoring
+
+Keystone uses standard application logging within Atlassian infrastructure.
+
+Logs may include limited identifiers (such as accountId) for operational purposes
+Logs are not used for profiling or external analysis
+9. Data Export
+
+Keystone may allow users to export or download data (such as release notes).
+
+Exported data is initiated by the user
+Exported files are stored on the user’s local device
+Keystone does not track or store exported files
+10. Security Responsibility Model
+
+Keystone follows a shared responsibility model:
+
+Atlassian is responsible for infrastructure, hosting, and platform security
+Keystone is responsible for application-level data handling and access logic
+Customers are responsible for user permissions and data within their Jira environment
+11. Security Updates
+
+Keystone is actively maintained and updated to:
+
+Address bugs and vulnerabilities
+Improve performance and reliability
+Align with Atlassian platform security standards
+12. Contact
+
+For security-related questions or concerns, contact:
+
+Email: support@bedrocksolutionsllc.com
