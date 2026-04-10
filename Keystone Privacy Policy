@@ -10,7 +10,7 @@ This Privacy Policy explains what data we access, how we use it, and how it is h
 
 2. Data We Access
 
-Keystone operates within Atlassian’s Forge platform and accesses data through Jira APIs.
+Keystone operates within Atlassian’s Forge platform and accesses data through Jira APIs. 
 
 We may access the following types of data:
 
@@ -18,6 +18,8 @@ Jira issues (including summaries, descriptions, fields, and status)
 Sprint and board data
 User account identifiers (such as accountId)
 Project and team configuration data
+We may also persist certain data within Atlassian Forge storage, including user identifiers (such as accountId), configuration data, and application-generated content required for app functionality.
+
 3. How We Use Data
 
 We use this data solely to provide the functionality of the Keystone application, including:
@@ -34,9 +36,20 @@ We do not use this data for advertising, profiling, or marketing purposes.
 
 Keystone is built on Atlassian Forge.
 
-Data is stored using Atlassian-hosted infrastructure (Forge storage)
-We do not store customer data on external servers
-We do not transfer data outside Atlassian infrastructure
+- Data is stored using Atlassian-hosted infrastructure (Forge storage)
+- This may include Atlassian account identifiers (such as accountId), user configuration data, and application-generated content
+- We do not store customer data on external servers
+- We do not transfer data outside Atlassian infrastructure
+
+Keystone may store the following data within Atlassian-hosted Forge storage:
+
+- Atlassian account identifiers (such as accountId)
+- User configuration and preferences
+- Team and administrative configuration records
+- Application-generated content such as meeting notes, summaries, or feed items
+
+This data is stored solely to support app functionality and is not used for advertising or external processing.
+
 5. Data Sharing
 
 We do not sell, rent, or share customer data with third parties.
