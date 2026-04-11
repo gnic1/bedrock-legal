@@ -1,0 +1,230 @@
+📘 Keystone Solutions — Help Documentation
+🔷 Overview
+
+Keystone Solutions helps teams understand how work actually happens—so they can make better decisions, earlier.
+
+By combining sprint data, team availability, meeting load, and historical patterns, Keystone surfaces delivery risk, capacity constraints, and actionable insights—before they impact outcomes.
+
+🚀 Getting Started
+1. Install Keystone
+Install from Atlassian Marketplace
+Open Keystone from your Jira project sidebar
+2. Initial Setup (Admin)
+Configure Sprint Capacity (Maximum Hours)
+Select Estimate Fields
+Select Actual Fields (optional)
+Configure Milestone Calendar (Sprint Timeline)
+3. You’re Ready
+
+Keystone immediately begins analyzing your active sprint.
+
+🧭 Core Features
+📰 News & Notes
+What it does
+
+Provides a centralized feed of:
+
+Sprint updates
+System changes
+Team notifications
+Why it matters
+
+Keeps everyone aligned without manual communication.
+
+⚙️ Active Work
+What it does
+
+Shows your current sprint in motion:
+
+Sprint timeline
+Milestones
+Ticket status
+Why it matters
+
+Gives a real-time view of:
+
+Progress vs time
+Work in motion
+Emerging risks
+🔮 Future Work
+What it does
+
+Displays:
+
+Upcoming sprints
+Backlog readiness
+Why it matters
+
+Helps teams:
+
+Identify unready work
+Prepare before sprint start
+Reduce last-minute chaos
+👥 Team Overview
+What it does
+
+Provides a full view of:
+
+Sprint workload
+Team activity
+Delivery alignment
+Why it matters
+
+Supports faster, better decision-making across the team.
+
+📊 Sprint Health & Signals
+Sprint Health Score (0–100)
+
+A simple score representing how realistic your sprint is.
+
+Based on:
+Capacity vs planned work
+Meeting load / interruptions
+Work readiness
+Sprint disruption
+Signals include:
+Capacity Fit
+Risk %
+Delivery Pace
+Sprint Disruption
+At-Risk Work
+Why it matters
+
+Turns complex data into clear, actionable insight
+
+📅 Calendar
+What it does
+
+Connects meetings to delivery impact:
+
+Shows meeting load
+Highlights focus time
+Links to sprint work
+Why it matters
+
+Your calendar = your real capacity
+
+⚠️ Key Concepts
+Capacity Realism
+
+Keystone does not predict outcomes.
+It shows whether your plan is realistic based on actual constraints.
+
+Sprint Disruption
+
+Measures work added/removed after sprint start.
+→ This is normal, expected, and tracked.
+
+Unplanned Work
+
+Tracks interruptions (support, urgent work).
+→ Treated as part of real capacity.
+
+At-Risk Work
+
+Identifies tickets likely to fall behind based on:
+
+Time elapsed
+Current progress
+🧠 Best Practices
+Review Sprint Health Score at sprint start
+Use Active Work daily for visibility
+Check Future Work before planning sessions
+Monitor Calendar to protect focus time
+Treat unplanned work as expected—not failure
+🔐 Data & Security
+Runs on Atlassian Forge infrastructure
+No external data storage (if applicable)
+Uses Jira data for analysis only
+❓ FAQ
+Does Keystone change my Jira data?
+
+No. Keystone is read-only and overlays insights.
+
+Is this predictive AI?
+
+No. Keystone focuses on real-world signals, not predictions.
+
+Who should use Keystone?
+Scrum Masters
+Product Owners
+Engineering Managers
+Agile Teams
+⚡ Getting Value in 5 Minutes
+
+You don’t need a full setup to start seeing value from Keystone. Follow these steps to quickly understand your sprint reality.
+
+🕐 Minute 1: Open Keystone
+Navigate to your Jira project
+Open Keystone Solutions from the sidebar
+Keystone will automatically load your active sprint
+
+👉 No setup required to begin
+
+🧭 Minute 2: Check Sprint Health
+
+Go to Team Overview
+
+Look at your Sprint Health Score (0–100)
+Scan the key signals:
+Capacity Fit
+Risk %
+Delivery Pace
+Sprint Disruption
+
+👉 Ask: Does this sprint look realistic?
+
+👀 Minute 3: Review Active Work
+
+Go to Active Work
+
+Check your Sprint Timeline
+Look for:
+Work behind schedule
+Clusters of “In Progress” work
+Gaps between progress and time elapsed
+
+👉 Ask: Are we where we should be right now?
+
+⚠️ Minute 4: Identify Risk
+
+Return to Team Overview
+
+Look at:
+At-risk tickets
+High Risk %
+Low Capacity Fit
+
+👉 These are your early warning signs
+
+📅 Minute 5: Check Your Real Capacity
+
+Go to Calendar
+
+Review today’s meetings
+Compare meeting load vs available work time
+
+👉 Ask: Do we actually have time to deliver this work?
+
+🎯 What You Just Learned
+
+In under 5 minutes, you now know:
+
+If your sprint is realistic
+Where delivery risk exists
+How meetings impact your capacity
+What needs attention right now
+🚀 What To Do Next
+Adjust sprint scope if overcommitted
+Rebalance work across the team
+Address at-risk tickets early
+Protect focus time where possible
+💡 Pro Tip
+
+Use Keystone at:
+
+Sprint Planning
+Daily Standup
+Mid-sprint check-ins
+
+Keystone isn’t about predicting the future—it’s about seeing reality early enough to act.
